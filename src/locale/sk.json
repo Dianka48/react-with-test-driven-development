@@ -1,0 +1,12 @@
+{
+  "signUp": "Registrovať sa",
+  "username": "Meno",
+  "email": "E-mail",
+  "password": "Heslo",
+  "passwordRepeat": "Registrovať sa",
+  "passwordMismatchValidation": "Heslá sa nezhodujú",
+  "users": "Užívatelia",
+  "nextPage": "ďalej >",
+  "previousPage": "< naspäť",
+  "login": "Prihlásiť sa"
+}
